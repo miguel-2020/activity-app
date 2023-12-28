@@ -1,0 +1,1 @@
+import{j as t,L as n}from"./index-YUAKuXCt.js";import{M as o}from"./Navigation-Lo7xGJSm.js";import"./iconBase-uPhF_-gG.js";function e(r){return r.split(" ").join("-")}function p({to:r,path:i}){return t.jsxs(n,{to:`/activity-app/${e(r)}`,children:[i==r?t.jsx(o,{}):""," ",r]})}export{p as default};

@@ -1,0 +1,1 @@
+import{j as s}from"./index-YUAKuXCt.js";function o({activity:e,callback:l}){return s.jsx("li",{children:s.jsxs("label",{className:"customCheckbox",htmlFor:e.id,children:[s.jsx("input",{type:"checkbox",name:e.id,id:e.id,checked:e.completed,onChange:n=>l(e.id,n)}),s.jsx("span",{className:"title",children:e.title}),s.jsx("span",{className:"checkmark"})]})})}export{o as default};
